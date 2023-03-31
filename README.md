@@ -212,6 +212,7 @@ The main model, "AOM3 (AbyssOrangeMix3)", is a purely upgraded model that improv
 
 ### UPDATE NOTE
 
+- 2023-04-01: Add description of Dreamlike curse on AOM3A1
 - 2023-03-11: Change model name : () to _  
 Changed to _ because an error occurs when using () in the Cloud environment(e.g.:paperspace).  
 "ModelName + _orangemixs"  
