@@ -240,6 +240,8 @@ In addition, thanks to excellent extensions such as [ModelToolkit](https://githu
 
 ### AOM3A1
 
+⛔Only this model (AOM3A1) includes ChilloutMix. The curse of the DreamLike license. In other words, only AOM3A1 is not available for commercial use. I recommend AOM3A1B instead.⛔
+
 Features: Anime like illustrations with flat paint. Cute enough as it is, but I really like to apply LoRA of anime characters to this model to generate high quality anime illustrations like a frame from a theatre version.
 
  ### AOM3A2
@@ -426,6 +428,7 @@ CUT: IN05-IN08, OUT10-11
 | temp01   | gape60   | NAI full | Add Difference @ 1.0 | 0,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,0 | AOM3       |
 
 ▼AOM3A1
+⛔Only this model (AOM3A1) includes ChilloutMix (=The curse of DreamLike).Commercial use is not available.
 
 ▼**Instructions:**
 
