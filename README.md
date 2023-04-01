@@ -1276,8 +1276,9 @@ Trash zone.
 ----
 
 <a name="MEME_AOM3A1"></a>
-▼AOM3A1?
-R.I.P
+
+▼AOM3A1?  
+R.I.P  
 ![](https://github.com/WarriorMama777/imgup/raw/e594f2b548bb9d9c28f0a37effebdb7032ac98c2/img/img_general/img_orangemix_rip_AOM3A1_02_comp001.webp "のろいのよろいを装備したA1ちゃん")
 
 
