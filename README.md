@@ -41,13 +41,14 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
 - [Table of Contents](#table-of-contents)
 - [Reference](#reference)
 - [Licence](#licence)
-- [Terms of use](#terms-of-use)
+- [~~Terms of use~~](#terms-of-use)
 - [Disclaimer](#disclaimer)
 - [How to download](#how-to-download)
   - [Batch Download](#batch-download)
   - [Batch Download (Advanced)](#batch-download-advanced)
   - [Select and download](#select-and-download)
 - [Model Detail \& Merge Recipes](#model-detail--merge-recipes)
+  - [Release Note](#release-note)
   - [AbyssOrangeMix3 (AOM3)](#abyssorangemix3-aom3)
     - [UPDATE NOTE](#update-note)
     - [AOM3](#aom3)
@@ -109,10 +110,13 @@ This model is open access and available to all, with a CreativeML OpenRAIL-M lic
 2. The authors claims no rights on the outputs you generate, you are free to use them and are accountable for their use which must not go against the provisions set in the license
 3. You may re-distribute the weights and use the model commercially and/or as a service. If you do, please be aware you have to include the same use restrictions as the ones in the license and share a copy of the CreativeML OpenRAIL-M to all your users (please read the license entirely and carefully) Please read the full license here ：https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
-# Terms of use
+# ~~Terms of use~~
 
-- **Clearly indicate where modifications have been made.**  
-If you used it for merging, please state what steps you took to do so.
+~~- **Clearly indicate where modifications have been made.**  
+If you used it for merging, please state what steps you took to do so.~~
+
+Removed terms of use. 2023-06-28  
+freedom. Marge Numa(swamp) will be fun if you publish the recipe.
 
 # Disclaimer
 
@@ -198,6 +202,11 @@ This completes how to clone only a specific directory. If you want to add other 
 ----
 
 # Model Detail & Merge Recipes
+
+## Release Note
+
+Please read the ToC as release notes. Sections are in descending order. The order within the section is ascending. It is written like SNS.
+
 
 ## AbyssOrangeMix3 (AOM3)
 
