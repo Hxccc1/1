@@ -329,8 +329,8 @@ Upload for access for research etc. 2023-06-27
 
 <details><summary>Sample image prompts</summary>
 
-1. Maid: https://majinai.art/ja/i/jhw20Z_
-2. Yotsuba: https://majinai.art/ja/i/f-O4wau)
+1. [Maid](https://majinai.art/ja/i/jhw20Z_)
+2. Yotsuba: https://majinai.art/ja/i/f-O4wau
 3. Inuko in cafe: https://majinai.art/ja/i/Cj-Ar9C
 4. bathroom: https://majinai.art/ja/i/XiSj5K6
 
