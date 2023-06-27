@@ -325,7 +325,7 @@ So this model is somewhat of a troll model.
 I would like to create an improved DiffLoRAKit_v2 based on this.  
 Upload for access for research etc. 2023-06-27  
 
-![](https://raw.githubusercontent.com/WarriorMama777/imgup/main/img/AOM3/img_sanmples_AOM3B2_01_comp001.webp "")
+![AOM3B2_orangemixs_sampleGallery](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/img_sanmples_AOM3B2_02_comp001.webp "AOM3B2_orangemixs_sampleGallery")
 
 
 &nbsp;
