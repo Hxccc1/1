@@ -264,11 +264,11 @@ The model was merged by mistakenly selecting 'Add sum' when 'Add differences' sh
 In my review, this is an illustration style somewhere between AOM3A1 and A3.
 
 ### AOM3B2
-troll model.
-Just AOM3A1B + BreakdomainM21: 0.4
-my newest toy.
-I would like to create an improved DiffLoRAKit_v2 based on this.
-Upload for access for research etc. 2023-06-27
+troll model.  
+Just AOM3A1B + BreakdomainM21: 0.4  
+my newest toy.  
+I would like to create an improved DiffLoRAKit_v2 based on this.  
+Upload for access for research etc. 2023-06-27  
 
 ### MORE
 In addition, these U-Net Blocks Weight Merge models take numerous steps but are carefully merged to ensure that mutual content is not overwritten.  
