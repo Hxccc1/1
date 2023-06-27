@@ -116,7 +116,7 @@ This model is open access and available to all, with a CreativeML OpenRAIL-M lic
 If you used it for merging, please state what steps you took to do so.~~
 
 Removed terms of use. 2023-06-28  
-freedom. Marge Numa(swamp) will be fun if you publish the recipe.
+freedom. If you publish the recipe, Marge swamp will be fun.
 
 # Disclaimer
 
