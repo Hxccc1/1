@@ -15,6 +15,7 @@ datasets: Nerfgun3/bad_prompt
 "OrangeMixs" shares various Merge models that can be used with StableDiffusionWebui:Automatic1111 and others.Enjoy the drawing AI.
 
 ![](https://raw.githubusercontent.com/WarriorMama777/imgup/main/img/img_general/img_orangemixs_infograph_3_comp001.webp "image_orangemixs_infographics_03")
+<span style="font-size: 60%;">Hero image prompts(AOM3B2):https://majinai.art/ja/i/PDMqZQQ</span>
 
 Maintain a repository for the following purposes.
 
