@@ -15,7 +15,7 @@ datasets: Nerfgun3/bad_prompt
 "OrangeMixs" shares various Merge models that can be used with StableDiffusionWebui:Automatic1111 and others.Enjoy the drawing AI.
 
 ![](https://raw.githubusercontent.com/WarriorMama777/imgup/main/img/img_general/img_orangemixs_infograph_3_comp001.webp "image_orangemixs_infographics_03")
-<span style="font-size: 60%;">Hero image prompts(AOM3B2):https://majinai.art/ja/i/PDMqZQQ</span>
+<span style="font-size: 60%;">Hero image prompts(AOM3B2):https://majinai.art/ja/i/jhw20Z_</span>
 
 Maintain a repository for the following purposes.
 
@@ -326,7 +326,14 @@ I would like to create an improved DiffLoRAKit_v2 based on this.
 Upload for access for research etc. 2023-06-27  
 
 ![AOM3B2_orangemixs_sampleGallery](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/img_sanmples_AOM3B2_02_comp001.webp "AOM3B2_orangemixs_sampleGallery")
+Prompts:
+<details><summary>Prompts</summary>
+1. Maid: https://majinai.art/ja/i/jhw20Z_
+2. Yotsuba: https://majinai.art/ja/i/f-O4wau
+3. Inuko in cafe: https://majinai.art/ja/i/Cj-Ar9C
+4. bathroom: https://majinai.art/ja/i/XiSj5K6
 
+</details>
 
 &nbsp;
 ____
