@@ -54,6 +54,7 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
     - [AOM3A2](#aom3a2)
     - [AOM3A3](#aom3a3)
     - [AOM3A1B](#aom3a1b)
+    - [AOM3B2](#aom3b2)
     - [MORE](#more)
     - [Sample Gallery](#sample-gallery)
     - [Description for enthusiast](#description-for-enthusiast)
@@ -212,6 +213,7 @@ The main model, "AOM3 (AbyssOrangeMix3)", is a purely upgraded model that improv
 
 ### UPDATE NOTE
 
+- 2023-06-27: Added AOM3B2
 - 2023-04-01: Added description of AOM3A1 cursed by Dreamlike
 - 2023-03-11: Change model name : () to _  
 Changed to _ because an error occurs when using () in the Cloud environment(e.g.:paperspace).  
@@ -259,6 +261,13 @@ Features: Midpoint of artistic and kawaii. the model has been tuned to combine r
 AOM3A1B added. This model is my latest favorite. I recommend it for its moderate realism, moderate brush touch, and moderate LoRA conformity.  
 The model was merged by mistakenly selecting 'Add sum' when 'Add differences' should have been selected in the AOM3A3 recipe. It was an unintended merge, but we share it because the illustrations produced are consistently good results.  
 In my review, this is an illustration style somewhere between AOM3A1 and A3.
+
+### AOM3B2
+troll model.
+Just AOM3A1B + BreakdomainM21: 0.4
+my newest toy.
+I would like to create an improved DiffLoRAKit_v2 based on this.
+Upload for access for research etc. 2023-06-27
 
 ### MORE
 In addition, these U-Net Blocks Weight Merge models take numerous steps but are carefully merged to ensure that mutual content is not overwritten.  
