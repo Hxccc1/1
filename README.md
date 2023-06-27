@@ -51,13 +51,14 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
   - [AbyssOrangeMix3 (AOM3)](#abyssorangemix3-aom3)
     - [UPDATE NOTE](#update-note)
     - [AOM3](#aom3)
+    - [MORE](#more)
+  - [Variations / Sample Gallery](#variations--sample-gallery)
+    - [AOM3](#aom3-1)
     - [AOM3A1](#aom3a1)
     - [AOM3A2](#aom3a2)
     - [AOM3A3](#aom3a3)
     - [AOM3A1B](#aom3a1b)
     - [AOM3B2](#aom3b2)
-    - [MORE](#more)
-    - [Sample Gallery](#sample-gallery)
     - [Description for enthusiast](#description-for-enthusiast)
   - [AbyssOrangeMix2 (AOM2)](#abyssorangemix2-aom2)
     - [AbyssOrangeMix2\_sfw (AOM2s)](#abyssorangemix2_sfw-aom2s)
@@ -240,35 +241,6 @@ In addition, thanks to excellent extensions such as [ModelToolkit](https://githu
 
 ![](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/AOM3_G_Full_2_comp002.webp "")
 
-▼Variations
-
-### AOM3A1
-
-⛔Only this model (AOM3A1) includes ChilloutMix. The curse of the DreamLike license. In other words, only AOM3A1 is not available for commercial use. I recommend AOM3A1B instead.⛔
-[GO TO MEME ZONE↓](#MEME_AOM3A1)
-
-Features: Anime like illustrations with flat paint. Cute enough as it is, but I really like to apply LoRA of anime characters to this model to generate high quality anime illustrations like a frame from a theatre version.
-
- ### AOM3A2
-
-Features: Oil paintings like style artistic illustrations and stylish background depictions. In fact, this is mostly due to the work of Counterfeit 2.5, but the textures are more realistic thanks to the U-Net Blocks Weight Merge.
-
- ### AOM3A3
-
-Features: Midpoint of artistic and kawaii. the model has been tuned to combine realistic textures, a artistic style that also feels like an oil colour style, and a cute anime-style face. Can be used to create a wide range of illustrations.
-
-### AOM3A1B
-
-AOM3A1B added. This model is my latest favorite. I recommend it for its moderate realism, moderate brush touch, and moderate LoRA conformity.  
-The model was merged by mistakenly selecting 'Add sum' when 'Add differences' should have been selected in the AOM3A3 recipe. It was an unintended merge, but we share it because the illustrations produced are consistently good results.  
-In my review, this is an illustration style somewhere between AOM3A1 and A3.
-
-### AOM3B2
-troll model.  
-Just AOM3A1B + BreakdomainM21: 0.4  
-my newest toy.  
-I would like to create an improved DiffLoRAKit_v2 based on this.  
-Upload for access for research etc. 2023-06-27  
 
 ### MORE
 In addition, these U-Net Blocks Weight Merge models take numerous steps but are carefully merged to ensure that mutual content is not overwritten.  
@@ -277,21 +249,53 @@ In addition, these U-Net Blocks Weight Merge models take numerous steps but are 
 - 🔐 When generating illustrations for the general public: write "nsfw" in the negative prompt field
 - 🔞 ~~When generating adult illustrations: "nsfw" in the positive prompt field~~ -> It can be generated without putting it in. If you include it, the atmosphere will be more NSFW.
 
-
-&nbsp;
+## Variations / Sample Gallery
+🚧Editing🚧
 
 ![](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/AOM3_G_Art_comp003.webp "")
 
 
-### Sample Gallery
+### AOM3 
 
-🚧Editing🚧
+
+
+
 
 ▼AOM3
 ![](https://github.com/WarriorMama777/imgup/raw/2c840982550fab41f45ba4b5aedbd3d84ddf2390/img/AOM3/img_sanmples_AOM3_01_comp001.webp "OrangeMixs_img_sanmples_AOM3_01_comp001")
 
-<span style="font-size: 80%;">(Actually, this gallery doesn't make much sense since AOM3 is mainly an improvement of the NSFW part 😂  ...But we can confirm that the picture is not much different from AOM2sfw.)</span>
+<span style="font-size: 60%;">(Actually, this gallery doesn't make much sense since AOM3 is mainly an improvement of the NSFW part 😂  ...But we can confirm that the picture is not much different from AOM2sfw.)</span>
 
+### AOM3A1
+
+⛔Only this model (AOM3A1) includes ChilloutMix. The curse of the DreamLike license. In other words, only AOM3A1 is not available for commercial use. I recommend AOM3A1B instead.⛔
+[GO TO MEME ZONE↓](#MEME_AOM3A1)
+
+Features: Anime like illustrations with flat paint. Cute enough as it is, but I really like to apply LoRA of anime characters to this model to generate high quality anime illustrations like a frame from a theatre version.
+
+▼A1
+
+![](https://github.com/WarriorMama777/imgup/raw/33d21cd31e35ae6b7593e7f6dd913f5f71ddef4e/img/AOM3/img_sanmples_AOMA1_3.0_comp001.webp "OrangeMixs_img_sanmples_AOMA1_3.0_comp001")
+
+
+<details>
+<summary>©</summary>
+(1)©Yurucamp: Inuyama Aoi, (2)©The Quintessential Quintuplets: Nakano Yotsuba, (3)©Sailor Moon: Mizuno Ami/SailorMercury
+</details>
+
+ ### AOM3A2
+🚧Editing🚧
+Features: Oil paintings like style artistic illustrations and stylish background depictions. In fact, this is mostly due to the work of Counterfeit 2.5, but the textures are more realistic thanks to the U-Net Blocks Weight Merge.
+
+ ### AOM3A3
+🚧Editing🚧
+Features: Midpoint of artistic and kawaii. the model has been tuned to combine realistic textures, a artistic style that also feels like an oil colour style, and a cute anime-style face. Can be used to create a wide range of illustrations.
+
+### AOM3A1B
+
+AOM3A1B added. This model is my latest favorite. I recommend it for its moderate realism, moderate brush touch, and moderate LoRA conformity.  
+The model was merged by mistakenly selecting 'Add sum' when 'Add differences' should have been selected in the AOM3A3 recipe. It was an unintended merge, but we share it because the illustrations produced are consistently good results.  
+In my review, this is an illustration style somewhere between AOM3A1 and A3.
 
 ▼A1B
 
@@ -305,18 +309,18 @@ In addition, these U-Net Blocks Weight Merge models take numerous steps but are 
 ©umamusume: Meisho Doto, ©Girls und Panzer: Nishizumi Miho,©IDOLM@STER: Sagisawa Fumika
 </details>
 
+### AOM3B2
+my newest toy. 
+Just AOM3A1B + BreakdomainM21: 0.4  
+So this model is somewhat of a troll model.
+I would like to create an improved DiffLoRAKit_v2 based on this.  
+Upload for access for research etc. 2023-06-27  
 
-▼A1
-
-![](https://github.com/WarriorMama777/imgup/raw/33d21cd31e35ae6b7593e7f6dd913f5f71ddef4e/img/AOM3/img_sanmples_AOMA1_3.0_comp001.webp "OrangeMixs_img_sanmples_AOMA1_3.0_comp001")
-
-
-<details>
-<summary>©</summary>
-(1)©Yurucamp: Inuyama Aoi, (2)©The Quintessential Quintuplets: Nakano Yotsuba, (3)©Sailor Moon: Mizuno Ami/SailorMercury
-</details>
+![](https://raw.githubusercontent.com/WarriorMama777/imgup/main/img/AOM3/img_sanmples_AOM3B2_01_comp001.webp "")
 
 
+&nbsp;
+____
 ### Description for enthusiast
 
 AOM3 was created with a focus on improving the nsfw version of AOM2, as mentioned above.The AOM3 is a merge of the following two models into AOM2sfw using U-Net Blocks Weight Merge, while extracting only the NSFW content part.  
