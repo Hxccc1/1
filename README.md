@@ -326,10 +326,11 @@ I would like to create an improved DiffLoRAKit_v2 based on this.
 Upload for access for research etc. 2023-06-27  
 
 ![AOM3B2_orangemixs_sampleGallery](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/img_sanmples_AOM3B2_02_comp001.webp "AOM3B2_orangemixs_sampleGallery")
-Prompts:
-<details><summary>Prompts</summary>
+
+<details><summary>Sample image prompts</summary>
+
 1. Maid: https://majinai.art/ja/i/jhw20Z_
-2. Yotsuba: https://majinai.art/ja/i/f-O4wau
+2. Yotsuba: https://majinai.art/ja/i/f-O4wau)
 3. Inuko in cafe: https://majinai.art/ja/i/Cj-Ar9C
 4. bathroom: https://majinai.art/ja/i/XiSj5K6
 
