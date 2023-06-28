@@ -27,6 +27,25 @@ Maintain a repository for the following purposes.
 
 ----
 
+# UPDATE NOTE / How to read this README
+
+## How to read this README
+
+Please read the ToC as release notes. Sections are in descending order. The order within the section is ascending. It is written like SNS.View the repository history when you need to check the full history.
+
+## UPDATE NOTE
+- 2023-02-27: Add AOM3A1B
+- 2023-03-10: Model name fix
+I found that I abbreviated the model name too much, so that when users see illustrations using OrangeMixs models on the web, they cannot reach them in their searches.
+To make the specification more search engine friendly, I renamed it to "ModelName + (orangemixs)".
+- 2023-03-11: Change model name : () to _
+Changed to _ because an error occurs when using () in the Cloud environment(e.g.:paperspace).
+"ModelName + _orangemixs"
+- 2023-04-01: Added description of AOM3A1 cursed by Dreamlike
+- 2023-06-27: Added AOM3B2. Remove terms of service.
+
+----
+
 # Gradio
 
 We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run OrangeMixs:
@@ -37,6 +56,9 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
 # Table of Contents
 
 - [OrangeMixs](#orangemixs)
+- [UPDATE NOTE / How to read this README](#update-note--how-to-read-this-readme)
+  - [How to read this README](#how-to-read-this-readme)
+  - [UPDATE NOTE](#update-note)
 - [Gradio](#gradio)
 - [Table of Contents](#table-of-contents)
 - [Reference](#reference)
@@ -48,9 +70,7 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
   - [Batch Download (Advanced)](#batch-download-advanced)
   - [Select and download](#select-and-download)
 - [Model Detail \& Merge Recipes](#model-detail--merge-recipes)
-  - [Release Note](#release-note)
   - [AbyssOrangeMix3 (AOM3)](#abyssorangemix3-aom3)
-    - [UPDATE NOTE](#update-note)
     - [About](#about)
     - [More feature](#more-feature)
     - [Variations / Sample Gallery](#variations--sample-gallery)
@@ -203,10 +223,6 @@ This completes how to clone only a specific directory. If you want to add other 
 
 # Model Detail & Merge Recipes
 
-## Release Note
-
-Please read the ToC as release notes. Sections are in descending order. The order within the section is ascending. It is written like SNS.
-
 
 ## AbyssOrangeMix3 (AOM3)
 
@@ -222,17 +238,6 @@ The main model, "AOM3 (AbyssOrangeMix3)", is a purely upgraded model that improv
 
 - [⚠NSFW] Civitai: AbyssOrangeMix3 (AOM3) | Stable Diffusion Checkpoint | https://civitai.com/models/9942/abyssorangemix3-aom3
 
-### UPDATE NOTE
-
-- 2023-06-27: Added AOM3B2
-- 2023-04-01: Added description of AOM3A1 cursed by Dreamlike
-- 2023-03-11: Change model name : () to _  
-Changed to _ because an error occurs when using () in the Cloud environment(e.g.:paperspace).  
-"ModelName + _orangemixs"  
-- 2023-03-10: Model name fix  
-I found that I abbreviated the model name too much, so that when users see illustrations using OrangeMixs models on the web, they cannot reach them in their searches.  
-To make the specification more search engine friendly, I renamed it to "ModelName + (orangemixs)".  
-- 2023-02-27: Add AOM3A1B  
 
 ### About
 
