@@ -31,7 +31,10 @@ Maintain a repository for the following purposes.
 
 ## How to read this README
 
-Please read the ToC as release notes. Sections are in descending order. The order within the section is ascending. It is written like SNS.View the repository history when you need to check the full history.
+1. Read the ToC as release notes.  
+Sections are in descending order. The order within the section is ascending. It is written like SNS.
+2. UPDATE NOTE
+3. View the repository history when you need to check the full history.
 
 ## UPDATE NOTE
 - 2023-02-27: Add AOM3A1B
