@@ -51,15 +51,15 @@ We support a [Gradio](https://github.com/gradio-app/gradio) Web UI to run Orange
   - [Release Note](#release-note)
   - [AbyssOrangeMix3 (AOM3)](#abyssorangemix3-aom3)
     - [UPDATE NOTE](#update-note)
-    - [AOM3](#aom3)
-    - [MORE](#more)
-  - [Variations / Sample Gallery](#variations--sample-gallery)
-    - [AOM3](#aom3-1)
-    - [AOM3A1](#aom3a1)
-    - [AOM3A2](#aom3a2)
-    - [AOM3A3](#aom3a3)
-    - [AOM3A1B](#aom3a1b)
-    - [AOM3B2](#aom3b2)
+    - [About](#about)
+    - [More feature](#more-feature)
+    - [Variations / Sample Gallery](#variations--sample-gallery)
+      - [AOM3](#aom3)
+      - [AOM3A1](#aom3a1)
+      - [AOM3A2](#aom3a2)
+      - [AOM3A3](#aom3a3)
+      - [AOM3A1B](#aom3a1b)
+      - [AOM3B2](#aom3b2)
     - [Description for enthusiast](#description-for-enthusiast)
   - [AbyssOrangeMix2 (AOM2)](#abyssorangemix2-aom2)
     - [AbyssOrangeMix2\_sfw (AOM2s)](#abyssorangemix2_sfw-aom2s)
@@ -234,7 +234,7 @@ I found that I abbreviated the model name too much, so that when users see illus
 To make the specification more search engine friendly, I renamed it to "ModelName + (orangemixs)".  
 - 2023-02-27: Add AOM3A1B  
 
-### AOM3
+### About
 
 Features: high-quality, realistic textured illustrations can be generated.  
 There are two major changes from AOM2.
@@ -251,20 +251,20 @@ In addition, thanks to excellent extensions such as [ModelToolkit](https://githu
 ![](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/AOM3_G_Full_2_comp002.webp "")
 
 
-### MORE
+### More feature
 In addition, these U-Net Blocks Weight Merge models take numerous steps but are carefully merged to ensure that mutual content is not overwritten.  
 
 (Of course, all models allow full control over adult content.)
 - 🔐 When generating illustrations for the general public: write "nsfw" in the negative prompt field
 - 🔞 ~~When generating adult illustrations: "nsfw" in the positive prompt field~~ -> It can be generated without putting it in. If you include it, the atmosphere will be more NSFW.
 
-## Variations / Sample Gallery
+### Variations / Sample Gallery
 🚧Editing🚧
 
 ![](https://github.com/WarriorMama777/imgup/raw/main/img/AOM3/AOM3_G_Art_comp003.webp "")
 
 
-### AOM3 
+#### AOM3 
 
 
 
@@ -275,7 +275,7 @@ In addition, these U-Net Blocks Weight Merge models take numerous steps but are 
 
 <span style="font-size: 60%;">(Actually, this gallery doesn't make much sense since AOM3 is mainly an improvement of the NSFW part 😂  ...But we can confirm that the picture is not much different from AOM2sfw.)</span>
 
-### AOM3A1
+#### AOM3A1
 
 ⛔Only this model (AOM3A1) includes ChilloutMix. The curse of the DreamLike license. In other words, only AOM3A1 is not available for commercial use. I recommend AOM3A1B instead.⛔
 [GO TO MEME ZONE↓](#MEME_AOM3A1)
@@ -292,15 +292,15 @@ Features: Anime like illustrations with flat paint. Cute enough as it is, but I 
 (1)©Yurucamp: Inuyama Aoi, (2)©The Quintessential Quintuplets: Nakano Yotsuba, (3)©Sailor Moon: Mizuno Ami/SailorMercury
 </details>
 
- ### AOM3A2
+#### AOM3A2
 🚧Editing🚧
 Features: Oil paintings like style artistic illustrations and stylish background depictions. In fact, this is mostly due to the work of Counterfeit 2.5, but the textures are more realistic thanks to the U-Net Blocks Weight Merge.
 
- ### AOM3A3
+#### AOM3A3
 🚧Editing🚧
 Features: Midpoint of artistic and kawaii. the model has been tuned to combine realistic textures, a artistic style that also feels like an oil colour style, and a cute anime-style face. Can be used to create a wide range of illustrations.
 
-### AOM3A1B
+#### AOM3A1B
 
 AOM3A1B added. This model is my latest favorite. I recommend it for its moderate realism, moderate brush touch, and moderate LoRA conformity.  
 The model was merged by mistakenly selecting 'Add sum' when 'Add differences' should have been selected in the AOM3A3 recipe. It was an unintended merge, but we share it because the illustrations produced are consistently good results.  
@@ -318,7 +318,7 @@ In my review, this is an illustration style somewhere between AOM3A1 and A3.
 ©umamusume: Meisho Doto, ©Girls und Panzer: Nishizumi Miho,©IDOLM@STER: Sagisawa Fumika
 </details>
 
-### AOM3B2
+#### AOM3B2
 my newest toy. 
 Just AOM3A1B + BreakdomainM21: 0.4  
 So this model is somewhat of a troll model.
